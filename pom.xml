@@ -17,7 +17,7 @@
 
     <groupId>com.atguigu</groupId>
     <artifactId>guli_parent</artifactId>
-    <packaging>pom</packaging>    <!-- pom类型 用于声明父工程-->
+<!--    <packaging>pom</packaging>    &lt;!&ndash; pom类型 用于声明父工程&ndash;&gt;-->
 
     <version>0.0.1-SNAPSHOT</version>
     <name>guli_parent</name>

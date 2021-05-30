@@ -171,4 +171,10 @@ public class HttpClient {
 		return content;
 	}
 
+	public static void main(String[] args) {
+		HttpClient client = new HttpClient("www.baidu.com");
+		System.out.println(client.content);
+
+	}
+
 }
